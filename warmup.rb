@@ -18,4 +18,5 @@ class Dog
 end 
 kenji=Dog.new 
 kenji.name ="kenji"
-kenji.breed = "cocker spaniel"
+kenji.breed = "english cocker spaniel"
+kenji.bark
