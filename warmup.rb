@@ -17,6 +17,6 @@ class Dog
   end 
 end 
 kenji=Dog.new 
-kenji.name ="kenji"
-kenji.breed = "english cocker spaniel"
+puts kenji.name ="kenji"
+puts kenji.breed = "english cocker spaniel"
 kenji.bark
